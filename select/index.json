@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "好好過",
+  "base_artist": "連詩雅",
+  "createdAt": "2025-12-28T14:56:57.393016Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "好好過",
+      "artist": "連詩雅",
+      "has_synced": true,
+      "path": "select/01_好好過_連詩雅.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "好好過",
+      "artist": "Shiga Lin",
+      "has_synced": true,
+      "path": "select/02_好好過_Shiga_Lin.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "好好過",
+      "artist": "連詩雅",
+      "has_synced": true,
+      "path": "select/03_好好過_連詩雅.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "好好過",
+      "artist": "Lin, Shiga",
+      "has_synced": true,
+      "path": "select/04_好好過_Lin,_Shiga.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "好好過",
+      "artist": "胡歌",
+      "has_synced": false,
+      "path": "select/05_好好過_胡歌.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "好好過",
+      "artist": "連詩雅",
+      "has_synced": false,
+      "path": "select/pl_01_好好過_連詩雅.txt"
+    }
+  ]
+}
